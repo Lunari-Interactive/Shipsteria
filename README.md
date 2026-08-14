@@ -8,10 +8,10 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<h3 align="center">Duality</h3> 
+<h3 align="center">Shipsteria</h3> 
 
   <p align="center">
-     A 2 Player Teamwork focused platformer game with 2D and 3D Aspects set in a failed laboratory experiment 2 Players must find a way to escape the facility.
+     2 Player Mobile game about battling with ships and simple controls!
     <br />
  <!--   <a href="https://github.com/Lunari-Interactive/Shipsteria"><strong>Explore the docs »</strong></a> 
     <br /> -->
